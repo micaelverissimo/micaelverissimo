@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-Data scientist able to work in multinational and multidisciplinary environment with experience in big data, computa-
-tional and statistical intelligence. Great experience in the areas of physics, medicine and software engineering.
+Data scientist able to work in multinational and multidisciplinary environment with experience in big data, computational and statistical intelligence.
 
-I'm currently working on Electron Trigger in ATLAS Experiment.
+
+I'm currently working on Electron Trigger in ATLAS Experiment in CERN.
 
 
 ### Code ranking:
